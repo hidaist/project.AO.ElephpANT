@@ -39,7 +39,7 @@ class Config {
     'password' => '',
     'load_images' => true,
     'load_files_proxy_php' => true,
-    'load_images_max_filesize' => 1000000,
+    'load_images_max_filesize' => 9000000,
     'image_resize_enabled' => true,
     'image_resize_cache' => true,
     'image_resize_dimensions' => 320,
