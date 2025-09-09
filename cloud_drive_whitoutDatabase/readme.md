@@ -16,6 +16,4 @@ Sesuaikan konfigurasi folder /_files/config/config.php
 
 Jalankan aplikasi melalui browser.
 
-💡 Link Donasi , agar pengembangan aplikasi ini membawa keberkahan bersama.
-
 📜 Lisensi Proyek ini dibuat sebagai bagian dari pembelajaran/pengembangan dan bebas digunakan untuk kebutuhan pribadi atau organisasi.
