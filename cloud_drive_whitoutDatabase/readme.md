@@ -8,7 +8,7 @@ Pencarian dan filter data untuk mempermudah pengelolaan.
 Manajemen dengan pembaruan otomatis.
 
 
-🛠 Teknologi yang Digunakan Backend: PHP + MySQL
+🛠 Teknologi yang Digunakan Backend: PHP 
 
 📋 Cara Menggunakan Clone repository ini ke komputer Anda.
 
